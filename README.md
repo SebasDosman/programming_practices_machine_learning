@@ -7,7 +7,6 @@ This repository contains practice exercises focused on Machine Learning and ETL 
 - Feature Engineering
 - Model Training
 - Model Evaluation
-- Model Deployment
 - Data Extraction
 - Data Transformation
 - Data Loading
