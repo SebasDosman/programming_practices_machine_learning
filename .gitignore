@@ -1,0 +1,84 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+bin/
+obj/
+lib/
+lib64/
+parts/
+sdist/
+wheels/
+*.egg
+*.egg-info/
+.installed.cfg
+*.dist-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Jupyter Notebook temporary files
+*.~nb
+
+# Python virtual environment
+.venv/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+.env.*
+venv/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Unit test / coverage reports
+.coverage
+.tox/
+.nox/
+.cache/
+coverage.*
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook outputs
+*.ipynb-convert
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+*.bat
+*.cmd
+*$Recycle.Bin/
+
+# Linux
+*.~lock.*
+
+# CSV files
+*.csv
+
+# Temporary files
+*.tmp
+*.temp
